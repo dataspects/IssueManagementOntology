@@ -1,0 +1,4 @@
+<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasEntityTitle={{{HasEntityTitle}}}|HasEntityBlurb={{{HasEntityBlurb|}}}|HasEntityType=Issue}}
+{{Annotation|AnnotationPredicate=ManagedBy|AnnotationObjects={{{ManagedBy|}}}}}
+</includeonly>
+<noinclude>[[Category:IssueManagementOntology]]</noinclude>
